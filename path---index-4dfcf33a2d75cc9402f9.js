@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{375:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Mike Weisert | UX Designer",description:"Portfolio website for Michael Weisert"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-4dfcf33a2d75cc9402f9.js.map
